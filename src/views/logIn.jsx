@@ -38,7 +38,7 @@ class LogIn extends Component {
 			<div style={{width:'100%', position: 'fixed'}}>
 			<div style={{position: 'relative', marginLeft: 'auto', marginRight: 'auto'}}>
 			<GoogleLogin
-    clientId="658977310896-knrl3gka66fldh83dao2rhgbblmd4un9.apps.googleusercontent.com"
+    clientId="287688423683-ugqpnkkdp0jvojk0j2psq42jq527dhru.apps.googleusercontent.com"
     buttonText="Login"
     onSuccess={responseGoogle}
     onFailure={responseGoogle}
